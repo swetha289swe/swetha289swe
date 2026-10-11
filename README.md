@@ -17,10 +17,15 @@ I'm Swetha
 | Category | Technologies |
 
 | Front-End | Angular, TypeScript, HTML5, CSS3, Responsive Design |
+
 | CMS | WordPress (themes, plugins, custom development) |
+
 | AI / ML | Python, TensorFlow, PyTorch, Hugging Face Transformers, LangChain, OpenAI API |
+
 | Data | Pandas, NumPy, Scikit-learn, SQL |
+
 | Tools | Git, Agile/Scrum, Jira, Figma, REST APIs |
+
 | Deployment | Docker, CI/CD, Vercel, AWS |
 
 
